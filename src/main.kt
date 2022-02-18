@@ -12,7 +12,7 @@ fun greet(name: String) {
 
 //Question two
 fun divide(x: Int, y: Int) {
-    var div = x/y
+    var div = x % y
     println(div)
 
 }
@@ -28,7 +28,7 @@ fun total() {
 
     interest("and cooking plus eating")
 }
-
+//Question Four
 fun interest(funny: String) {
     var hobby = "Singing "
     println(hobby + funny)
