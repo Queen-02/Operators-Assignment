@@ -26,7 +26,7 @@ fun total() {
     a+=b + c + d
     println(a)
 
-    interest("and ")
+    interest("and cooking plus eating")
 }
 
 fun interest(funny: String) {
