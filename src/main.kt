@@ -12,7 +12,7 @@ fun greet(name: String) {
 
 //Question two
 fun divide(x: Int, y: Int) {
-    var div = x % y
+    var div = x / y
     println(div)
 
 }
